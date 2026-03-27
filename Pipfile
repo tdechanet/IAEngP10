@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 polars = "*"
+plotly = "*"
+numpy = "*"
+nbformat = "*"
 
 [dev-packages]
 ipykernel = "*"
