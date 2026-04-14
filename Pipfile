@@ -8,6 +8,7 @@ polars = "*"
 plotly = "*"
 numpy = "*"
 nbformat = "*"
+pandas = "*"
 
 [dev-packages]
 ipykernel = "*"
