@@ -9,6 +9,8 @@ plotly = "*"
 numpy = "*"
 nbformat = "*"
 pandas = "*"
+scikit-learn = "*"
+matplotlib = "*"
 
 [dev-packages]
 ipykernel = "*"
