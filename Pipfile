@@ -11,6 +11,8 @@ nbformat = "*"
 pandas = "*"
 scikit-learn = "*"
 matplotlib = "*"
+fastapi = {extras = ["standard"], version = "*"}
+uvicorn = "*"
 
 [dev-packages]
 ipykernel = "*"
