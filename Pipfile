@@ -11,10 +11,12 @@ nbformat = "*"
 pandas = "*"
 scikit-learn = "*"
 matplotlib = "*"
+fastapi = {extras = ["standard"], version = "*"}
+uvicorn = "*"
+azure-functions = "*"
 
 [dev-packages]
 ipykernel = "*"
 
 [requires]
-python_version = "3.14"
-python_full_version = "3.14.3"
+python_version = "3.12"
